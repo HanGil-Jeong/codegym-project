@@ -1,4 +1,4 @@
-# CodeGym Solutions
+# CodeGym project
 
 이 저장소는 CodeGym에서 학습한 Java 문제 풀이 코드를 정리한 곳입니다.
 
