@@ -7,5 +7,7 @@ package ko.codegym.task.task01.task0109;
 public class Solution {
     public static void main(String[] args) {
         //여기에 코드를 작성합니다
+        int a = 5;
+        int b = 13;
     }
 }
